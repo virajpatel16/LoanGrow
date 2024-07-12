@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">LoanGrow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="time_units_array">
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>Decade</item>
+        <item>Century</item>
+        <item>Millennium</item>
+    </string-array>
+    <string-array name="length_units_array">
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Kilometer</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Micrometer</item>
+        <item>Nanometer</item>
+    </string-array>
+    <string-array name="Weight_units_array">
+        <item>Milligram</item>
+        <item>Centigram</item>
+        <item>Gram</item>
+        <item>Ounce</item>
+        <item>Kilogram</item>
+        <item>Metric Ton</item>
+        <item>Pound</item>
+        <item>Stone</item>
+        <item>Short Ton</item>
+        <item>Long Ton</item>
+    </string-array>
+
+    <string name="error_invalid_input">Invalid input. Please enter valid numbers for height and weight.</string>
+</resources>
